@@ -14,4 +14,13 @@
 3.1.1) this captures all of your imports and requirements and puts them in the requirements.txt file
 3.2) use the command: pip install -r requirements.txt
 3.2.1) this installs all of the requirements needed from the requirements.txt file
+
+INSTRUCTIONS
+This is to be used as a study aid for your upcoming test.  For this assignment you 
+will need to create a minimum of 20 of your own study questions and add them to the
+questions.py file.  The quality of the questions is entirely up to you, but keep in
+mind this is to help you study for your test.
+
+note:  this can be used for later tests or test in other classes if you upadate the 
+questions.py file appropraitely.
  
